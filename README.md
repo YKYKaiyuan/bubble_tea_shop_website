@@ -5,5 +5,6 @@ I impelemented the php code of signup/login page in the website, and also the sq
 
 /
 /
-If you want to run the template database, please use a local database to import [a link](https://github.com/YKYKaiyuan/bubble_tea_shop_website/blob/main/bubble_tea_db_template.sql)
+If you want to run the template database, please use a local database to import [bubble_tea_db_template.sql
+](https://github.com/YKYKaiyuan/bubble_tea_shop_website/blob/main/bubble_tea_db_template.sql)
 first.
